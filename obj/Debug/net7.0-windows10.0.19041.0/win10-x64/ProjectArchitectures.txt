@@ -1,1 +1,0 @@
-C:\Users\alexc\Desktop\Lab3\Lab3.csproj;x64
